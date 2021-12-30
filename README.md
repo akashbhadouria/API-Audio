@@ -6,7 +6,7 @@ ___
 ![apiTask](https://user-images.githubusercontent.com/25353461/147575158-63001e38-3ffe-44cd-a547-023578652d29.png)
 
 
-Live app link -  https://akash-audio-api-app.netlify.app/
+Live app link -  https://akash-api-audio-app.netlify.app/
 
 # Synopsis -
 
